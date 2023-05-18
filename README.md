@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JS and SWIFT as well as refreshing other necessary programming knowledge
 - 💞️ I’m looking to collaborate on Front-End projects, QA automation as well as manual testing and business analysis
 - 📫 How to reach me: My LinkedIn profile: https://www.linkedin.com/in/piotr-krajewski-1b709ab1/
-- 🧑🏼‍🎨 Portfolio: [https://piotrk-portfolio.netlify.app/](https://piotrqa.com/)
+- 🧑🏼‍🎨 Portfolio: https://piotrqa.com/
 
 <!---
 Piotrk39/Piotrk39 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
