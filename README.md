@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Piotrk39 I'am QA Engineer and I want to switch much more into programming
-- 👀 I’m interested in TypeScript, Python and SWIFT
-- 🌱 I’m looking to collaborate on Front-End projects or QA automation
+- 👋 Hi, I’m @Piotrk39 I'am QA automation Engineer
+- 👀 I’m interested in TypeScript, Node.js, Python, SWIFT and Playwright
+- 🌱 I’m looking to collaborate on Front-End, Back-End projects or QA automation
 - 📫 How to reach me: My LinkedIn profile: https://www.linkedin.com/in/piotr-krajewski-1b709ab1/
 - 🧑🏼‍🎨 Portfolio: https://piotrqa.com/
 
